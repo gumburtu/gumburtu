@@ -2,7 +2,7 @@
 #### Software Test Automation Engineer | ISTQB® Certified | CTFL
 Automation Testing, Manual Testing, API Testing, Front-end/Back-end Testing, Cross Browser Testing, Parallel Execution, Designed and developed Test Plans and Test Cases
 
-Skills: Java / Gherkin / MySQL / XML / HTML / CSS
+Skills: Java / Gherkin / MySQL / XML / HTML / CSS / JSON
 
 
 
