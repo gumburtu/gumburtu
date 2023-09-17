@@ -25,3 +25,7 @@ Skills: Java / Gherkin / MySQL / XML / HTML / CSS / JSON
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gumburtu/gumburtu/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gumburtu/gumburtu/output/github-contribution-grid-snake.svg">
 </picture>
+
+![snake gif](https://github.com/gumburtu/gumburtu/blob/output/github-contribution-grid-snake.gif)
+
+
