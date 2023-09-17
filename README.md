@@ -20,4 +20,8 @@ Skills: Java / Gherkin / MySQL / XML / HTML / CSS / JSON
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=gumburtu)  
 
-![snake gif](https://github.com/gumburtu/gumburtu/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gumburtu/gumburtu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gumburtu/gumburtu/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gumburtu/gumburtu/output/github-contribution-grid-snake.svg">
+</picture>
