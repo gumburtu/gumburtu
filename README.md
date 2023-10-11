@@ -16,6 +16,5 @@ Skills: Java / Gherkin / MySQL / XML / HTML / CSS / JSON
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gumburtu&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/gumburtu)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=gumburtu)  
