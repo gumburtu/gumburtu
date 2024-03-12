@@ -1,4 +1,4 @@
-### Hi there 👋, Rashko Enev
+### Hi there 👋, I'm Rashko Enev!
 #### Full Stack Automation Engineer | Software Development Engineer in Test | ISTQB® Certified | CTFL
 I always strive to keep my knowledge in the field of software development fresh and closely follow technological advancements. My commitment to continuous learning enables me to adapt to the rapidly changing dynamics of the software world. Consequently, I view encountering each new technology or opportunity as a source of excitement and am eager to explore these opportunities. I consider every challenge in the software realm as a new learning opportunity and am determined to overcome these challenges. Looking ahead, I am enthusiastic about participating in and contributing to more projects with this passion and determination. 
 
