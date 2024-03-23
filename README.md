@@ -6,7 +6,7 @@ Here are the IDE, framework, testing tools and programming languages I use.
 
 Automation Testing, Manual Testing, API Testing, Front-end/Back-end Testing, Cross Browser Testing, Parallel Execution, Designed and developed Test Plans and Test Cases
 
-Programming Languages: Java, JavaScript(MySQL, XML, HTML, CSS)
+Programming Languages: Java, JavaScript(PostgreSQL, XML, HTML, CSS)
 
 Testing Tools / Libraries: Selenium WebDriver, Cucumber, TestNG, JUnit
 
