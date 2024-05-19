@@ -19,21 +19,27 @@ Automation Testing, Manual Testing, API Testing, Front-end/Back-end Testing, Cro
 •CI/CD & Build Management:
  -Jenkins
  -Maven
+ 
 •Version Control System:
  -GIT / GitHub
+ 
 •Testing Types:
  -UI Testing
  -API Testing (REST Assured)
  -Regression Testing
  -Smoke Testing
  -Database Testing (JDBC)
+ 
 •Frameworks:
  -Behavior Driven Development (BDD) Framework
  -Page Object Model (POM) Framework
+ 
 •Project Management & Defect Tracking:
  -JIRA / JIRA-Xray
+ 
 •Project Methodologies:
  -Agile / Scrum
+ 
 •IDEs:
  -IntelliJ IDEA
  -pgAdmin
