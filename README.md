@@ -1,32 +1,50 @@
 ### Hi there 👋, I'm Rashko Enev!
 #### Full Stack Automation Engineer | Software Development Engineer in Test | ISTQB® Certified | CTFL
-I always strive to keep my knowledge in the field of software development fresh and closely follow technological advancements. My commitment to continuous learning enables me to adapt to the rapidly changing dynamics of the software world. Consequently, I view encountering each new technology or opportunity as a source of excitement and am eager to explore these opportunities. I consider every challenge in the software realm as a new learning opportunity and am determined to overcome these challenges. Looking ahead, I am enthusiastic about participating in and contributing to more projects with this passion and determination. 
-
-Here are the IDE, framework, testing tools and programming languages I use.
+Over 2 years of experience with the following IDEs, frameworks, testing tools, and programming languages:
 
 Automation Testing, Manual Testing, API Testing, Front-end/Back-end Testing, Cross Browser Testing, Parallel Execution, Designed and developed Test Plans and Test Cases
 
-Programming Languages: Java, JavaScript(PostgreSQL, XML, HTML5, CSS3)
+•Programming Languages:
+ -Java
+ -JavaScript (including PostgreSQL, XML, HTML5, CSS3)
 
-Testing Tools / Libraries: Selenium WebDriver, Cucumber, TestNG, JUnit
+•Testing Tools & Libraries:
+ -Selenium WebDriver
+ -Cucumber
+ -TestNG
+ -JUnit
+ -Postman
+ -Rest Assured
 
-API Testing Tools / Libraries: POSTMAN, Rest Assured  
+•CI/CD & Build Management:
+ -Jenkins
+ -Maven
 
-CI / CD Tool: Jenkins  
+•Version Control System:
+ -GIT / GitHub
 
-Build Management Tool: Maven  
+•Testing Types:
+ -UI Testing
+ -API Testing (REST Assured)
+ -Regression Testing
+ -Smoke Testing
+ -Database Testing (JDBC)
 
-Version Control System: GIT / GITHUB  
+•Frameworks:
+ -Behavior Driven Development (BDD) Framework
+ -Page Object Model (POM) Framework
 
-Testing: UI, Rest Assured API, Regression, Smoke, Database (JDBC)  
+•Project Management & Defect Tracking:
+ -JIRA / JIRA-Xray
 
-Frameworks: Behavior Driven Development Framework, POM - Page Object Model Framework,  
+•Project Methodologies:
+ -Agile / Scrum
 
-Project Management / Defect Tracking Tools: JIRA / JIRA-Xray  Project 
+•IDEs:
+ -IntelliJ IDEA
+ -pgAdmin
+ -Visual Studio CodeOver 2 years of experience with the following IDEs, frameworks, testing tools, and programming languages: Automation Testing, Manual Testing, API Testing, Front-end/Back-end Testing, Cross Browser Testing, Parallel Execution, Designed and developed Test Plans and Test Cases •Programming Languages: -Java -JavaScript (including PostgreSQL, XML, HTML5, CSS3) •Testing Tools & Libraries: -Selenium WebDriver -Cucumber -TestNG -JUnit -Postman -Rest Assured •CI/CD & Build Management: -Jenkins -Maven •Version Control System: -GIT / GitHub •Testing Types: -UI Testing -API Testing (REST Assured) -Regression Testing -Smoke Testing -Database Testing (JDBC) •Frameworks: -Behavior Driven Development (BDD) Framework -Page Object Model (POM) Framework •Project Management & Defect Tracking: -JIRA / JIRA-Xray •Project Methodologies: -Agile / Scrum •IDEs: -IntelliJ IDEA -pgAdmin -Visual Studio Code
 
-Methodologies: Agile / Scrum  
-
-IDE: IntelliJ, pgAdmin, Visual Studio Code
 
 
 <h3 align="left">Languages and Tools:</h3>
