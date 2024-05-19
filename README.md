@@ -7,6 +7,7 @@ Automation Testing, Manual Testing, API Testing, Front-end/Back-end Testing, Cro
 •Programming Languages:
  -Java
  -JavaScript (including PostgreSQL, XML, HTML5, CSS3)
+ 
 •Testing Tools & Libraries:
  -Selenium WebDriver
  -Cucumber
@@ -14,6 +15,7 @@ Automation Testing, Manual Testing, API Testing, Front-end/Back-end Testing, Cro
  -JUnit
  -Postman
  -Rest Assured
+ 
 •CI/CD & Build Management:
  -Jenkins
  -Maven
