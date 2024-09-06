@@ -61,4 +61,3 @@ I have a basic level ISTQB certificate as a Software Test Engineer with more tha
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gumburtu&show_icons=true)  
 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=gumburtu)  
