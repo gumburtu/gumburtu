@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Rashko Enev!
+### Hi there 👋, I'm Rashko
 #### Full Stack Automation Engineer | Software Development Engineer in Test | ISTQB® Certified | CTFL
 I have a basic level ISTQB certificate as a Software Test Engineer with more than 2 years of experience in IT. I have worked in quality management and testing processes as a manual and automation tester on various projects. In these projects, I used Java as a software language, Selenium and Postman as test tools, Jira/xray as a bug-tracking tool, and GitHub as a code repository. I managed manual testing processes within the framework of Agile/Scrum methodology scenarios. In the projects worse no performed various SQL queries, and performance tests with JMeter and API tests. I have a master's level education. I have a highly organized, well-documented, solution-oriented, team-oriented, and adaptable personality.
  
