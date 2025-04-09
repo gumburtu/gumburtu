@@ -29,9 +29,9 @@
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Maven-Dark.svg" alt="maven" width="40" height="40"/>
 </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  </a>
+ <a href="https://github.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="github" width="40" height="40"/>
+</a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   </a>
