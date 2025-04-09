@@ -23,6 +23,9 @@
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Selenium.svg" alt="selenium" width="40" height="40"/>
   </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="postman" width="40" height="40"/>
+</a>
   <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="apache" width="40" height="40"/>
   </a>
