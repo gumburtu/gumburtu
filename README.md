@@ -29,7 +29,7 @@
     <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="apache" width="40" height="40"/>
   </a>
   <a href="https://cucumber.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/cucumber-1.svg" alt="cucumber" width="40" height="40"/>
+    <img src="https://upload.vectorlogo.zone/logos/cucumberio/images/badcb0c1-89d6-4bd2-8a59-3c4b2fe3b21a.svg" alt="cucumber" width="40" height="40"/>
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
@@ -38,7 +38,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
 </p>
 
